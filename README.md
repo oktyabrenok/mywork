@@ -3,4 +3,3 @@ def get_vowels(String):
 get_vowels("animal") # [a, i, a]
 get_vowels("sky") # []
 get_vowels("football") # [o, o, a]
-#
